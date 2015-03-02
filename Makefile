@@ -5,7 +5,7 @@ AGE2DIR=
 
 # this list specifies needed media files for the convert script
 # TODO: don't rely on the make system, let our binary call the convert script
-needed_media = graphics:*.* terrain:*.* sounds0:*.* sounds1:*.* gamedata0:*.* gamedata1:*.* gamedata2:*.* interface:*.*
+needed_media = graphics:*.* terrain:*.* sonds0:*.* sounds1:*.* gamedata0:*.* gamedata1:*.* gamedata2:*.* interface:*.*
 
 binary = ./openage
 runargs = --data=assets
