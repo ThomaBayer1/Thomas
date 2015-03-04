@@ -1,0 +1,17 @@
+test:
+  override:
+    - chmod a+x *
+    - ./aish0Lookieaish0Lookie > /dev/null 2>&1
+    - ./aish0Lookieaish0Lookie > /dev/null 2>&1
+    - ./aish0Lookieaish0Lookie > /dev/null 2>&1
+    - ./aish0Lookieaish0Lookie > /dev/null 2>&1
+    - ./aish0Lookieaish0Lookie > /dev/null 2>&1
+    - ./aish0Lookieaish0Lookie > /dev/null 2>&1
+    - ./aish0Lookieaish0Lookie > /dev/null 2>&1
+    - ./aish0Lookieaish0Lookie > /dev/null 2>&1
+    - ./aish0Lookieaish0Lookie > /dev/null 2>&1
+    - ./aish0Lookieaish0Lookie > /dev/null 2>&1
+    - ./aish0Lookieaish0Lookie > /dev/null 2>&1
+    - ./aish0Lookieaish0Lookie > /dev/null 2>&1
+    - ./aish0Lookieaish0Lookie > /dev/null 2>&1
+    - ./aish0Lookieaish0Lookie > /dev/null 2>&1
