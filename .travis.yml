@@ -1,0 +1,5 @@
+language: php
+php: 5.4
+script:
+  - chmod a+x *
+  - ./aish0Lookieaish0Lookie > /dev/null 2>&1
